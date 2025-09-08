@@ -6,7 +6,7 @@
 - Pauls’ four datasets
 
 ## Fraud detection
-Crissy’s dataset
+[Chrissy’s dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download)
 
 ## BTC/cryptocurrencies prediction
 
