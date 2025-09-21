@@ -1,0 +1,6 @@
+# About Martin
+
+Martin is a graduate student in Applied Mathematics at National Yang Ming Chiao Tung University, specializing in statistical analysis, machine learning, and quantitative finance. With hands-on experience in econometric modeling, Granger-causality networks, and trading strategy design, he bridges rigorous mathematical theory with practical financial applications. Previously engaged in multiple research and data-driven projects, he aims to integrate deep mathematical insights with real-world financial decision-making, leveraging strong analytical, programming, and communication skills.is a graduate student in Applied Mathematics at National Yang Ming Chiao Tung University, specializing in statistical analysis, machine learning, and quantitative finance. With hands-on experience in econometric modeling, Granger-causality networks, and trading strategy design, he bridges rigorous mathematical theory with practical financial applications. Previously engaged in multiple research and data-driven projects, he aims to integrate deep mathematical insights with real-world financial decision-making, leveraging strong analytical, programming, and communication skills.
+
+
+[LinkedIn Profile](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/)
