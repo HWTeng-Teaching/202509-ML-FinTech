@@ -9,7 +9,8 @@ This course embraces the rapid development of AI while remaining firmly rooted i
 This repository serves pedagogical purposes, offering a collaborative platform where students can share ideas, exchange code, and sharpen their knowledge in Machine Learning and FinTech.  
 
 
-
+- [Textbook](https://www.statlearning.com)
+- [Textbook Resource](https://www.statlearning.com/resources-python)
 
 - [Google Sheet](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=sharing)
 - [Overleaf TEMPLATE](https://www.overleaf.com/read/gxnsffrpqgmj#145baa) 
