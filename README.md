@@ -18,6 +18,10 @@ This repository serves pedagogical purposes, offering a collaborative platform w
 - [202509 ML&FinTech B](https://www.overleaf.com/read/dwgbszjxdmrv#5f5535)
 - [202509 ML&FinTech C](https://www.overleaf.com/read/tdgsdfvwfrbj#9212e0)
 
+## In-class exercise
+
+- [20250922 IC](https://forms.gle/weYzmM7juvgvpcyD9)
+
 ## Previous GitHUB Repos
 
 - [202309-ML-FinTech](https://github.com/HWTeng-Teaching/202309-ML-and-FinTech)
