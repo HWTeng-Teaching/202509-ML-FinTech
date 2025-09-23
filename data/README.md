@@ -8,7 +8,7 @@
 
 ## Fraud detection
 
-- [Chrissy’s dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download)
+- [Kaggle's Financial Transactions Dataset: Analytics](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download), introduced by Chrissy
 
 ## BTC/cryptocurrencies prediction
 
