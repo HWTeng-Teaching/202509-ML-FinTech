@@ -15,6 +15,6 @@
 
 - Yenting’s dataset: BTC and other exploratory variables
 - Wendy’s dataset: Cryptocurrencies market
-- Ben's dataset: Nevidias and other US stocks?
+- Ben's dataset: Nevidias, other US stocks, and some other indexes
 - [Kaggle's Hull Tactical - Market Prediction. Submission deadline Dec 8, 2025](https://www.kaggle.com/competitions/hull-tactical-market-prediction/?utm_medium=email&utm_source=gamma&utm_campaign=comp-hullmarketprediction-2025)
-- [Kaggle's MITSUI&CO. Commodity Prediction Challenge. Submission Deadline October 6, 2025](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge)
+<!--- [Kaggle's MITSUI&CO. Commodity Prediction Challenge. Submission Deadline October 6, 2025](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge)-->
