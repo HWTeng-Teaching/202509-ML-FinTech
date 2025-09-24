@@ -11,6 +11,7 @@
 ## Educational background
 **National Yang Ming Chiao Tung University**
 - Graduate student of Institue of Statistics
+- 2024 Sep. SOA Exam Probability PASS
 
 **National Cheng Chi University**
 - BA in Spainish Language and Culture
