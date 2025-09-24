@@ -9,7 +9,7 @@
 ## Fraud detection
 
 - [Kaggle's Financial Transactions Dataset: Analytics](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download), introduced by Chrissy
-- [玉山AI比賽](https://tbrain.trendmicro.com.tw/Competitions/Details/40), introduced by Chrissy
+- [AI CUP 2025 玉山人工智慧公開挑戰賽](https://tbrain.trendmicro.com.tw/Competitions/Details/40), introduced by Chrissy
 
 ## BTC/cryptocurrencies prediction
 
