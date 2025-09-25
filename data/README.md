@@ -6,7 +6,7 @@
 - Mabel_US_Delisting
 - Mabel_TW_TCRI
 
-- Pauls’ four datasets?
+- Paul's credit scoring: [Home code](https://www.kaggle.com/code/pauljkk/thesis-code-home-credit) and [AMEX code](https://www.kaggle.com/code/pauljkk/thesis-code-amex).
 
 ## Fraud detection
 
