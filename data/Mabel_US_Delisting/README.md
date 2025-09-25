@@ -4,3 +4,4 @@
 |2|Delisting Variable Reference.xlsx|Variable information for Delisting|
 
 
+[Other explainatory variables found in financial statements](https://drive.google.com/file/d/1CxxFbmOEjUqY1ugwpURTes0Zaf3ngf2x/view?usp=sharing))
