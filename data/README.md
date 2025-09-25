@@ -1,4 +1,6 @@
-# data
+# Data
+
+*Lastest update by Huei-Wen Teng 20250925*
 
 ## Credit scoring
 - Mabel_US_Delisting
