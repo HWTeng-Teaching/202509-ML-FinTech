@@ -13,8 +13,8 @@
 | 7     | 資財系財金組3 | 112705058  | 馮品維 | David |
 | 8     | 企管學程2    | 313712025  | 武氏瓊簪 | Amber [[Linkedin]](https://www.linkedin.com/in/vo-tram/) |
 | 9     | 財金碩1      | 314707053  | 黎昭樂 | Lokia [[LinkedIn]](www.linkedin.com/in/laichiulok) |
-| 10    | 資工系1D     | 114550072  | 劉祈賢 | Katherine [[LinkedIn]](https://www.linkedin.com/in/katherine-liu-a0474228b) |
-| 11    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey |
+| 10    | 資工系1D     | 114550072  | 劉祈賢 | Katherine [[LinkedIn]](https://www.linkedin.com/in/katherine-liu-a0474228b)| 
+| 11    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey| [[Linkedin]](https://www.linkedin.com/in/yu-hsuan-liu/)|
 | 12    | 資財系財金組4 | 111705065  | 徐瑩倢 | Joanne |
 | 13    | 資財系財金組3 | 112705062  | 王冠築 | Candice |
 | 14    | 財金碩1      | 314707006  | 陳之怡 | Claire [[LinkedIn]](https://www.linkedin.com/in/jhihyi-chen-0ab38a383/) |
@@ -33,6 +33,7 @@
 | 27    | 企管學程2    | 313712017  | 張芸瑄 | Sherry [[LinkedIn]](https://www.linkedin.com/in/sherry-chang8865/) |
 | 28    | 應數碩2      | 313652028  | 鄭詠融 | Martin |
 | 29    | 資財系財金組3 | 112705051  | 陳珏睿 | Jerry |
+
 
 
 
