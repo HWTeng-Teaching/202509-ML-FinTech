@@ -20,7 +20,7 @@ Below is a brief summary of the included files:
 - `1013slides_Fraud-Detection(Chrissy_Andy_Alvin).pdf`  
 - `1013slides_Fraud-Detection(Chrissy_Andy_Alvin).pptx`
 
-### Modeling Notebook
+### Files
 - `EDA.ipynb` — This Jupyter Notebook documents the exploratory data analysis (EDA) process and its results for our dataset.
 - `test_benchmark.ipynb` — This Jupyter Notebook records the process and results of **logistic regression modeling** for fraud detection.
 
