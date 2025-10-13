@@ -16,7 +16,7 @@ Please click the link below to access the full PDF version of our paper:
 This repository contains materials and results from our **Fraud Detection** group project.  
 Below is a brief summary of the included files:
 
-### Presentation Files (for the 10/13 in-class presentation)
+### Slides (for the 10/13 in-class presentation)
 - `1013slides_Fraud-Detection(Chrissy_Andy_Alvin).pdf`  
 - `1013slides_Fraud-Detection(Chrissy_Andy_Alvin).pptx`
 
