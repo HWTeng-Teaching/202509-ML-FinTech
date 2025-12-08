@@ -1,0 +1,2 @@
+FeatureSelection,Model,n_features,RMSE_mean,RMSE_std,MAE_mean,MAE_std,MAPE_mean,MAPE_std,MedAE_mean,MedAE_std,R2_mean,R2_std,ExplVar_mean,ExplVar_std,Corr_mean,Corr_std,QLIKE_mean,QLIKE_std
+AllFS,LinearRegression,15,0.026748,0.010073,0.021224,0.009093,0.165459,0.087865,0.017728,0.009479,-0.255357,2.314451,-0.237404,2.280553,0.841012,0.222463,0.042335,0.058694
