@@ -14,7 +14,7 @@
 
 - **EDA_senba-beth.ipynb**：前期 EDA 數據探索與分析。
 
-- ~~**test_proposal.ipynb**~~：數據測試（已棄用）。
+- ~~**test_proposal.ipynb**：數據測試（已棄用）。~~
 
 - **test_benchmark.ipynb**：benchmark 測試，建立多模型性能比較基準。
 
