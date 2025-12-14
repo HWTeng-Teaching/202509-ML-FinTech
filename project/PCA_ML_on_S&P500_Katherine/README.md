@@ -5,7 +5,7 @@ Katherine Liu, Huei-Wen Teng
 
 <br>
 
-[![Read Full Paper](https://img.shields.io/badge/Read%20Full%20Paper-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([你的_GOOGLE_DRIVE_連結](https://drive.google.com/file/d/1LZoBkopcvo54nWcPvYyrmYuXQjFzgc1K/view?usp=sharing))
+[![Read Full Paper](https://img.shields.io/badge/Read%20Full%20Paper-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LZoBkopcvo54nWcPvYyrmYuXQjFzgc1K/view?usp=sharing)
 
 </div>
 
