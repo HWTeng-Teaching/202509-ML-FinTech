@@ -6,5 +6,5 @@ Benchmark Testing notebook. Contains the code for setting up and running baselin
 
 ## test_research_design.ipynb
 Research Design Testing notebook. Implements the core experimental methodology and analysis.
-## summary.ipynb
+## summary_results.ipynb
 Final Summary notebook. Gathers key results, visualizations, and final conclusions from the project.
