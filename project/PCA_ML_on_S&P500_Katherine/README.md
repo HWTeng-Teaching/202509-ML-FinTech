@@ -3,7 +3,7 @@
 # [Project Name]: Decoding Market Movements: PCA-Enhanced Machine Learning for S&P 500 Log Return Prediction
 **Authors:**
 Katherine Liu, Huei-Wen Teng
-[![Read on Overleaf](https://img.shields.io/badge/Read%20Full%20Paper-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)]([YOUR_OVERLEAF_LINK_HERE](https://drive.google.com/file/d/1LZoBkopcvo54nWcPvYyrmYuXQjFzgc1K/view?usp=sharing))
+[![Read on Overleaf](https://img.shields.io/badge/Read%20Full%20Paper-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)]((https://drive.google.com/file/d/1LZoBkopcvo54nWcPvYyrmYuXQjFzgc1K/view?usp=sharing))
 </div>
 
 ---
