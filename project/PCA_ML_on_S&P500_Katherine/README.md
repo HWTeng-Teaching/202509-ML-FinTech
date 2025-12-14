@@ -26,5 +26,5 @@ when practitioners prioritize predictive accuracy versus economic utility.
 
 ### Graphic Abstract
 
-![System Architecture and Results](./image/20251103_ML_FinTech_project_D-1.png)
+![System Architecture and Results](./images/20251103_ML_FinTech_project_D-1.png)
 *Figure 1: Overview of the data processing pipeline and model architecture.*
