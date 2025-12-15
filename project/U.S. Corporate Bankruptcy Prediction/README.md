@@ -43,15 +43,20 @@ This section outlines the structure and contents of the project's main directori
 * **slides.pdf**: A PDF export of the main presentation slides
 * **slides.key**: The original Keynote file for the presentation slides
 * **data/**
-    * Contains raw and/or processed datasets used for the analysis
-    * https://drive.google.com/file/d/1_BAODv2MkaiXTYAUfelMP2cqoAu9MICe/view?usp=sharing
+ below data will be used in EDA_bkypred.ipynb
+    * Variable reference.xlsx
+    * delisting14-24.csv 
+    * link table.xlsx
+    * financial statement data yearly [data.csv](https://drive.google.com/file/d/1_BAODv2MkaiXTYAUfelMP2cqoAu9MICe/view?usp=sharing)
 * **coding/**
-    * **EDA.ipynb**
+    * **EDA\_bkypred.ipynb**
         * *Exploratory Data Analysis notebook.* Used for initial data cleaning, visualization, and understanding.
     * **test\_benchmark.ipynb**
         * *Benchmark Testing notebook.* Contains the code for setting up and running baseline performance tests.
     * **test\_research\_design.ipynb**
         * *Research Design Testing notebook.* Implements the core experimental methodology and analysis.
-    * **summary.ipynb**
+    * **summary\_result.ipynb**
         * *Final Summary notebook.* Gathers key results, visualizations, and final conclusions from the project.
+        * models.zip are models saved from  **test\_research\_design.ipynb** and respresented in  **summary\_result.ipynb**
+          
 
