@@ -39,9 +39,8 @@ prediction and support better investment and risk management decisions.
 
 This section outlines the structure and contents of the project's main directories and files.
 
-* **README.md**: Include title, authors, abstract, and link of your overleaf link. 
-* **slides.pdf**: A PDF export of the main presentation slides
-* **slides.key**: The original Keynote file for the presentation slides
+* **README.md**: Include title, authors, abstract.
+* **Bankrupty_prediction.pdf**: A PDF export of the main presentation slides.
 * **data/**
  below data will be used in EDA_bkypred.ipynb
     * Variable reference.xlsx
