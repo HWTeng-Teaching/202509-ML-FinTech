@@ -54,6 +54,6 @@ This section outlines the structure and contents of the project's main directori
         * *Research Design Testing notebook.* Implements the core experimental methodology and analysis.
     * **summary\_result.ipynb**
         * *Final Summary notebook.* Gathers key results, visualizations, and final conclusions from the project.
-        * models.zip are models saved from  **test\_research\_design.ipynb** and respresented in  **summary\_result.ipynb**
+        * models.zip are models saved from  **test\_research\_design.ipynb** and **test\_benchmark.ipynb**, and are respresented in  **summary\_result.ipynb**
           
 
