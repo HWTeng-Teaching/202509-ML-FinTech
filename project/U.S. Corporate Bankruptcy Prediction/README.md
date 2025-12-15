@@ -36,3 +36,21 @@ prediction and support better investment and risk management decisions.
 
 ![System Architecture and Results](./images/studyplan.png)
 *Figure 1: Overview of the data processing pipeline and model architecture.*
+
+This section outlines the structure and contents of the project's main directories and files.
+
+* **README.md**: Include title, authors, abstract, and link of your overleaf link. 
+* **slides.pdf**: A PDF export of the main presentation slides
+* **slides.key**: The original Keynote file for the presentation slides
+* **data/**
+    * Contains raw and/or processed datasets used for the analysis
+* **coding/**
+    * **EDA.ipynb**
+        * *Exploratory Data Analysis notebook.* Used for initial data cleaning, visualization, and understanding.
+    * **test\_benchmark.ipynb**
+        * *Benchmark Testing notebook.* Contains the code for setting up and running baseline performance tests.
+    * **test\_research\_design.ipynb**
+        * *Research Design Testing notebook.* Implements the core experimental methodology and analysis.
+    * **summary.ipynb**
+        * *Final Summary notebook.* Gathers key results, visualizations, and final conclusions from the project.
+
